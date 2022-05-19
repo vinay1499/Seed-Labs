@@ -1,5 +1,5 @@
 # CPSC-8570 Network Technology Security (Seed-Labs)
-Author: Sai Vinay Nandigam
+Author: Sai Vinay Nandigam <br/>
 This repository contains my work on SEED Labs. I have completed the Network Technologies Security course taught by Dr. Long Cheng, and my work in these labs was completed during this course.
 
 | S.No | Lab |
